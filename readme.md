@@ -12,7 +12,7 @@ en-dehors des live meteo
 |Membres|Role|
 |-------|----|
 |Ayoube|Chef projet|
-|Rachid|Assistant|
+|Rachid|Co-chef projet|
 |Sifedine|Designer version web|
 |Wassim|Designer version web|
 |Cemil|Designer version mobile|
