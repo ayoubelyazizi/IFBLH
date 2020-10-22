@@ -22,10 +22,10 @@ Par la suite les deux utilisateurs peuvent s'ils le veulent s'ajouter mutuelleme
 |Cemil|Designer version mobile|
 |Khalid|Designer version mobile|
 
-[Version Mobile](https://github.com/ayoubelyazizi/IFBLH/blob/main/screens/screen1.md). 
+*[Version Mobile](https://github.com/ayoubelyazizi/IFBLH/blob/main/screens/screen1.md). 
 
-[Version Desktop](https://github.com/ayoubelyazizi/IFBLH/blob/main/screens/screen2.md). 
+*[Version Desktop](https://github.com/ayoubelyazizi/IFBLH/blob/main/screens/screen2.md). 
 
-[Trello](https://trello.com/invite/b/bqSAFJrR/d317121e3ba808b702a914c113fc2656/meilleurtable). 
+*[Trello](https://trello.com/invite/b/bqSAFJrR/d317121e3ba808b702a914c113fc2656/meilleurtable). 
 
 
