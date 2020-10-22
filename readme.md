@@ -23,3 +23,6 @@ Par la suite les deux utilisateurs peuvent s'ils le veulent s'ajouter mutuelleme
 |Khalid|Designer version mobile|
 
 Lien Trello : https://trello.com/invite/b/bqSAFJrR/d317121e3ba808b702a914c113fc2656/meilleurtable .
+[Version Mobile](https://github.com/ayoubelyazizi/IFBLH/blob/main/screens/screen1.md)
+[Version Desktop](https://github.com/ayoubelyazizi/IFBLH/blob/main/screens/screen2.md)
+
