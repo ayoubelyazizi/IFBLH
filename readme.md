@@ -1,4 +1,4 @@
-# Bienvenue sur IFBLH
+# Bienvenue sur IFBLH.
 
 ### Déscription:
 
@@ -9,7 +9,8 @@ IFBLH permet de voir en temps réel quel temps il fait dans n'importe quel coin 
 Son fonctionnement sera basé sur de la video live (comme un appel video classique) entre deux utilisateurs, un demandeur et un receveur :  
 
 Le demandeur peut choisir un endroit disponible sur la carte, cliqué dessus et envoyer une demande de connexion a un autre utilisateur
-le receveur, qui lui doit accepter la demande de connexion pour que le demandeur ait accés à la camera du telephone.
+le receveur, qui lui doit accepter la demande de connexion pour que le demandeur ait accés à la camera du telephone.  
+
 Par la suite les deux utilisateurs peuvent s'ils le veulent s'ajouter mutuellement a leur liste de contact et donc pouvoir rester en contact en-dehors des live meteo.
 
 |Membres|Role|
